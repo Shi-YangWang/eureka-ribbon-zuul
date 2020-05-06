@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bunny-parent/bunny-parent.iml" filepath="$PROJECT_DIR$/bunny-parent/bunny-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bunny-parent/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/bunny-parent/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bunny-parent/eureka-provider1/eureka-provider1.iml" filepath="$PROJECT_DIR$/bunny-parent/eureka-provider1/eureka-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bunny-parent/eureka-provider2/eureka-provider2.iml" filepath="$PROJECT_DIR$/bunny-parent/eureka-provider2/eureka-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bunny-parent/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/bunny-parent/eureka-server/eureka-server (1).iml" />
+    </modules>
+  </component>
+</project>
